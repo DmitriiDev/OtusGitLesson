@@ -6,4 +6,6 @@ New task. Commit #2
 
 Second task. Commit #1
 
+Second task. Commit #2
+
 v1.0
