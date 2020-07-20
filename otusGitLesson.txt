@@ -4,8 +4,13 @@ New task. Commit #1
 
 New task. Commit #2
 
+
+Second task. Commit #1
+
 Second task. Commit #2
 
+
 Task 3. Commit #1
+
 
 v1.0
