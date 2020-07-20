@@ -4,4 +4,8 @@ New task. Commit #1
 
 New task. Commit #2
 
-v1.0
+Second task. Commit #2
+
+Task 3. Commit #1
+
+v2.0
